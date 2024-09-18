@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust, and Full stack Development**
 
-- 👯 I’m looking to collaborate on **Geode, a RevEng tool**
+- 🫂 I’m looking to collaborate on **Geode, a RevEng tool**
 
 - 🤝 I’m looking for help with **Opal, a modern web browser written in Rust.**
 
