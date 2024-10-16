@@ -13,6 +13,8 @@
 
 - 📫 You can reach me at **gitanmandellbalogh@gmail.com**
 
+<img src="https://media1.tenor.com/m/GX8JB9wp2pMAAAAC/rust-my.gif" width="240" height="200" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gitanm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gitanm" height="30" width="40" /></a>
