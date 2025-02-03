@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="300"> <!-- Increased height -->
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="grid">
+      <div class="card card-3">
+        <h2>Catalyst</h2>
+      </div>
+      <div class="card card-6">
+        <p>A simple IDE built with Tauri, to help speed up the development of Rust-based projects. Made by rustaceans for rustaceans</p>
+      </div>
+    </div>
+    <style>
+      .grid {
+        display: grid;
+        grid-template-areas: "card-3" "card-6";
+        gap: 1rem;
+        background: linear-gradient(45deg, rgba(255,104,171,1) 0%, rgba(119,137,255,1) 31%, rgba(166,110,230,1) 66%, rgba(111,255,170,1) 100%);
+        border-radius: 0.25rem;
+        padding: 1rem;
+      }
+      .card {
+        background-color: lightgray;
+        border-radius: 0.25rem;
+        height: 100%;
+      }
+      .card-3 { grid-area: card-3; }
+      .card-6 { grid-area: card-6; }
+      h2 {
+        font-family: Helvetica;
+        font-size: 1.5rem;
+        text-align: center;
+        color: #333;
+      }
+      p {
+        font-family: Helvetica;
+        font-size: 1rem;
+        font-weight: bold;
+        text-align: center;
+        color: #333;
+      }
+    </style>
+  </foreignObject>
+</svg>
