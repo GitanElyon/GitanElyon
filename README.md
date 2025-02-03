@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; margin-bottom: -220px">
+<div style="display: flex; justify-content: center; margin-bottom: -300px">
     <img src="sections/header.svg" alt="Header">
 </div>
 
