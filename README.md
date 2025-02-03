@@ -1,12 +1,12 @@
-<div style="display: flex; justify-content: center; margin-bottom: -300px">
+<div style="display: flex; justify-content: center">
     <img src="sections/header.svg" alt="Header">
 </div>
 
-<div style="display: flex; justify-content: center; margin-bottom: -120px">
+<div style="display: flex; justify-content: center">
     <img src="about.svg" alt="About">
 </div>
 
-<div style="display: flex; justify-content: center; margin-bottom: -270px">
+<div style="display: flex; justify-content: center">
     <img src="sections/projects.svg" alt="Projects Title">
 </div>
 
@@ -16,11 +16,11 @@
     <img src="projects/aqueduct.svg" alt="Aqueduct">
 </div>
 
-<div style="display: flex; justify-content: center; margin-bottom: -270px">
+<div style="display: flex; justify-content: center">
     <img src="sections/contact.svg" alt="Contact Title">
 </div>
 
-<div style="display: flex; justify-content: center; gap: 1.5rem; width: 90%; margin: auto;">
+<div style="display: flex; justify-content: center; gap: 1.5rem; width: 90%">
     <img src="links/linkedin.svg" alt="linkedin">
     <img src="links/website.svg" alt="website">
     <img src="links/kofi.svg" alt="kofi">
