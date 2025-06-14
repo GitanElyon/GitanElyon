@@ -1,35 +1,15 @@
-<div style="display: flex; justify-content: center">
-    <img src="sections/header.svg" alt="Header">
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2500&color=7733FF&multiline=true&repeat=false&width=435&height=60&lines=%24+%2Fbin%2Fwhoami;GitanElyon)](https://git.io/typing-svg)
 
-<div style="display: flex; justify-content: center">
-    <img src="about.svg" alt="About">
-</div>
+```text
+       OS : Void Linux
+Languages : Rust, Go, JavaScript, Python...
+   Editor : Neovim
+  Discord : gitanelyon
+  Website : https://gitanelyon.com
+```
 
-<div style="display: flex; justify-content: center">
-    <img src="sections/projects.svg" alt="Projects Title">
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitanElyon&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent&title_color=7733FF)]((https://github.com/GitanElyon))
 
-<div style="display: flex; justify-content: center; gap: 1.5rem; width: 90%; margin: auto;">
-    <img src="projects/yawma.svg" alt="YAWMA">
-    <img src="projects/catalyst.svg" alt="Catalyst">
-    <img src="projects/aqueduct.svg" alt="Aqueduct">
-</div>
-
-<div style="display: flex; justify-content: center">
-    <img src="sections/contact.svg" alt="Contact Title">
-</div>
-
-<div style="display: flex; justify-content: center; gap: 1.5rem; width: 90%">
-    <img src="links/linkedin.svg" alt="linkedin">
-    <img src="links/website.svg" alt="website">
-    <img src="links/kofi.svg" alt="kofi">
-    <img src="links/youtube.svg" alt="youtube">
-    <img src="links/discord.svg" alt="discord">
-</div>
-
-<div style="display: flex; justify-content: center; margin-bottom: -270px">
-    <img src="info.svg" alt="Contact Title">
-</div>
-
+### About Me
+I've been coding nearly daily since 2021 and in that time I made a an effort to learn something new every day. In the beginning, I started with codecademy lessons but once I got the basics down, I very quickly got bored of the repetitive coursework and instead I spent my time building software for friends family and anyone else who had a problem I could solve. Since then I have spent years refining my tech stack and tools and my overall general ability to work either on my own in a team.
 
