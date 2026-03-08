@@ -2,7 +2,6 @@
 
 ```text
      Name : GitanElyon
-     Role : Fullstack
        OS : NixOS
 Languages : Rust, Go, JavaScript, Python...
   Discord : gitanelyon
