@@ -2,6 +2,7 @@
 ```text
      Name : GitanElyon
        OS : NixOS
+ Projects : Qst, Minos, Papyr
 Languages : Rust, Go, JavaScript, Python...
   Discord : gitanelyon
   Website : https://gitanelyon.dev
