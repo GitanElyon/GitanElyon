@@ -12,4 +12,4 @@ Languages : Rust, Go, JavaScript, Python...
 ### About Me
 Systems-focused Software Engineer with a strong background in high-performance backend infrastructure using Rust and Go. Expert in optimizing modular architectures, implementing LLM-driven search algorithms, and managing Nix-based reproducible developer environments. Proven ability to deliver scalable solutions in both startup and enterprise settings.
 
-[Resume](https://gitanelyon.dev/resume/)
+My resume can be found [here](https://gitanelyon.dev/resume/)!
