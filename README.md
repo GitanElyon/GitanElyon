@@ -7,7 +7,6 @@ Languages : Rust, Go, JavaScript, Python...
   Discord : gitanelyon
   Website : https://gitanelyon.dev
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitanElyon&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent&title_color=FFF)]((https://github.com/GitanElyon))
 
 ### About Me
 Systems-focused Software Engineer with a strong background in high-performance backend infrastructure using Rust and Go. Expert in optimizing modular architectures, implementing LLM-driven search algorithms, and managing Nix-based reproducible developer environments. Proven ability to deliver scalable solutions in both startup and enterprise settings.
